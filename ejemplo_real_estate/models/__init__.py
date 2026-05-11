@@ -1,1 +1,1 @@
-from . import __def_real_estate__
+from . import real_estate
